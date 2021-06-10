@@ -1,2 +1,1 @@
-# HCM_GA
-The source code of HCM-based Reversible Data Hiding in JPEG Bitstream using GA.
+Source codes for paper "Towards Versatility: Lossless Data Hiding in JPEG Bitstream via Table-independent Code Mapping".
